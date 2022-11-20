@@ -26,4 +26,4 @@ I love statistics, so:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vanya706&count_private=true&theme=dark)
 
 #### Top languages (public repos only)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vanya706&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vanya706&theme=dark&langs_count=2)
